@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/Frijol/Picture-Taking-Tessel-Tweetbot/issues"
   },
-  "homepage": "https://github.com/Frijol/Picture-Taking-Tessel-Tweetbot"
+  "homepage": "https://github.com/Frijol/Picture-Taking-Tessel-Tweetbot",
+  "dependencies": {
+    "camera-vc0706": "^0.1.6"
+  }
 }
